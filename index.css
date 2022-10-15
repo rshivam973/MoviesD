@@ -1,3 +1,5 @@
 .icon{
     background-color: aliceblue;
+    padding: 0%;
+    display: flex;
 }
