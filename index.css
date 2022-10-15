@@ -1,12 +1,9 @@
 .icon{
-    background-color: rgb(218, 237, 253);
+    background-color: rgb(212, 222, 230);
     padding: 0%;
     display: flex;
     flex-direction: row;
     font-weight: bold;
+    font-size: medium;
 }
 
-.icon{
-    font-size: medium;
-    font-style: normal;
-}
