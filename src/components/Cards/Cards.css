@@ -1,0 +1,14 @@
+.card-container{
+    display: inline-block;
+    column-gap: 50px;
+    row-gap: 50px;
+    margin: 6px 6px;
+    position: relative;
+}
+
+.main-card{
+    margin: 5% 10% 5% 10%;
+    position: relative;
+    display: flex;
+    flex-basis: auto;
+}
